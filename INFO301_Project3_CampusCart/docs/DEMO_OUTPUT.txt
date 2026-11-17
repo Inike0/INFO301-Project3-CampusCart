@@ -1,0 +1,210 @@
+CAMPUSCART - RECORDED CONSOLE DEMONSTRATION
+Generated using a temporary copy of the CSV data so the starter files remain unchanged.
+Before checkout: P009 stock = 37.
+After checkout: P009 stock = 35.
+New order: O031, total = $24.00.
+
+FIRST RUN: product search, product addition, customer registration, cart, checkout, history, reports
+======================================================================================
+
+CAMPUSCART | INFO 301 - PROJECT 3
+Educational CSV-based shop | Simulated checkout only | No real payments
+
+MAIN MENU
+1. View/Search Products
+2. Manage Products
+3. Register/Manage Customer
+4. Shopping Cart / Place Order
+5. View Order History
+6. Basic Reports
+7. Exit
+Select 1-7: Search ID/name (press Enter to view all): ID      PRODUCT NAME                             PRICE   IN STOCK
+------------------------------------------------------------------
+P009    USB Flash Drive 32GB                    $12.00         37
+P010    USB Flash Drive 64GB                    $18.00         37
+P012    USB Keyboard                            $16.00          4
+P016    USB-C Charging Cable                     $6.00         22
+
+MAIN MENU
+1. View/Search Products
+2. Manage Products
+3. Register/Manage Customer
+4. Shopping Cart / Place Order
+5. View Order History
+6. Basic Reports
+7. Exit
+Select 1-7: 
+MANAGE PRODUCTS
+1. List products
+2. Add product
+3. Update product
+4. Remove product
+0. Back
+Choose: Product name: Unit price: Quantity in stock: Product saved with ID P037.
+
+MANAGE PRODUCTS
+1. List products
+2. Add product
+3. Update product
+4. Remove product
+0. Back
+Choose: 
+MAIN MENU
+1. View/Search Products
+2. Manage Products
+3. Register/Manage Customer
+4. Shopping Cart / Place Order
+5. View Order History
+6. Basic Reports
+7. Exit
+Select 1-7: 
+CUSTOMERS
+1. Register customer
+2. List customers
+3. Search customers
+4. Update customer
+5. Remove customer without orders
+0. Back
+Choose: Customer full name: Phone (optional): Email (optional): Customer registered with ID C033.
+
+CUSTOMERS
+1. Register customer
+2. List customers
+3. Search customers
+4. Update customer
+5. Remove customer without orders
+0. Back
+Choose: 
+MAIN MENU
+1. View/Search Products
+2. Manage Products
+3. Register/Manage Customer
+4. Shopping Cart / Place Order
+5. View Order History
+6. Basic Reports
+7. Exit
+Select 1-7: Enter registered customer ID (e.g., C001): Shopping as Practice Student (C033). No payment details are collected.
+
+SHOPPING CART / SIMULATED CHECKOUT
+1. Add item
+2. View cart & subtotal
+3. Change item quantity
+4. Remove item
+5. Confirm & place order
+0. Back
+Choose: Product ID: Quantity to add: Item added.
+
+SHOPPING CART / SIMULATED CHECKOUT
+1. Add item
+2. View cart & subtotal
+3. Change item quantity
+4. Remove item
+5. Confirm & place order
+0. Back
+Choose: PRODUCT                             QTY         UNIT     LINE TOTAL
+--------------------------------------------------------------------
+USB Flash Drive 32GB                  2       $12.00         $24.00
+--------------------------------------------------------------------
+SUBTOTAL / TOTAL (no taxes or delivery fees): $24.00
+
+SHOPPING CART / SIMULATED CHECKOUT
+1. Add item
+2. View cart & subtotal
+3. Change item quantity
+4. Remove item
+5. Confirm & place order
+0. Back
+Choose: PRODUCT                             QTY         UNIT     LINE TOTAL
+--------------------------------------------------------------------
+USB Flash Drive 32GB                  2       $12.00         $24.00
+--------------------------------------------------------------------
+SUBTOTAL / TOTAL (no taxes or delivery fees): $24.00
+Confirm this simulated order? (No money is charged) [y/N]: ORDER CONFIRMED: O031 | $24.00
+Stock was updated. Order and order items were saved to CSV.
+
+MAIN MENU
+1. View/Search Products
+2. Manage Products
+3. Register/Manage Customer
+4. Shopping Cart / Place Order
+5. View Order History
+6. Basic Reports
+7. Exit
+Select 1-7: 
+ORDER HISTORY
+1. All orders
+2. Search by order ID
+3. Search by customer ID
+Choose: Order ID: ORDER   CUSTOMER                 DATE / TIME        ITEMS        TOTAL
+-------------------------------------------------------------------------
+O031    Practice Student         2026-11-16 22:12       2       $24.00
+Order items:
+  USB Flash Drive 32GB | 2 x $12.00 = $24.00
+
+MAIN MENU
+1. View/Search Products
+2. Manage Products
+3. Register/Manage Customer
+4. Shopping Cart / Place Order
+5. View Order History
+6. Basic Reports
+7. Exit
+Select 1-7: Low-stock threshold [press Enter for 5]: 
+BASIC SHOP REPORT
+Products in catalogue: 37
+Registered customers: 33
+Recorded orders: 31
+Total recorded order value: $931.50
+
+Products with stock of 5 or fewer:
+ID      PRODUCT NAME                             PRICE   IN STOCK
+------------------------------------------------------------------
+P019    Water Bottle 750ml                       $8.00          0
+P003    Blue Ballpoint Pen                       $0.75          2
+P012    USB Keyboard                            $16.00          4
+P030    Graph Paper Pad                          $3.10          5
+
+MAIN MENU
+1. View/Search Products
+2. Manage Products
+3. Register/Manage Customer
+4. Shopping Cart / Place Order
+5. View Order History
+6. Basic Reports
+7. Exit
+Select 1-7: Goodbye. All confirmed changes remain in CSV files.
+
+RESTART TEST: order persists in CSV
+======================================================================================
+
+CAMPUSCART | INFO 301 - PROJECT 3
+Educational CSV-based shop | Simulated checkout only | No real payments
+
+MAIN MENU
+1. View/Search Products
+2. Manage Products
+3. Register/Manage Customer
+4. Shopping Cart / Place Order
+5. View Order History
+6. Basic Reports
+7. Exit
+Select 1-7: 
+ORDER HISTORY
+1. All orders
+2. Search by order ID
+3. Search by customer ID
+Choose: Order ID: ORDER   CUSTOMER                 DATE / TIME        ITEMS        TOTAL
+-------------------------------------------------------------------------
+O031    Practice Student         2026-11-16 22:12       2       $24.00
+Order items:
+  USB Flash Drive 32GB | 2 x $12.00 = $24.00
+
+MAIN MENU
+1. View/Search Products
+2. Manage Products
+3. Register/Manage Customer
+4. Shopping Cart / Place Order
+5. View Order History
+6. Basic Reports
+7. Exit
+Select 1-7: Goodbye. All confirmed changes remain in CSV files.

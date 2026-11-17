@@ -1,0 +1,5 @@
+Starter CSV dataset consistency audit: PASS
+Products: 36 | Customers: 32 | Orders: 30 | Order items: 60
+Checks: unique record IDs, nonnegative prices/stock, existing customers,
+all order totals equal sum of items, all order counts equal summed item quantities,
+all line totals equal unit price multiplied by quantity.

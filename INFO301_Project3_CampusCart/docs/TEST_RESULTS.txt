@@ -1,0 +1,35 @@
+test_cart_total_calculation_uses_decimal (test_app.CampusCartTests.test_cart_total_calculation_uses_decimal) ... ok
+test_changes_persist_after_reopening_store (test_app.CampusCartTests.test_changes_persist_after_reopening_store) ... ok
+test_checkout_saves_two_csvs_and_reduces_stock (test_app.CampusCartTests.test_checkout_saves_two_csvs_and_reduces_stock) ... ok
+test_creates_all_csv_files_with_headers (test_app.CampusCartTests.test_creates_all_csv_files_with_headers) ... ok
+test_customer_registration_search_and_update (test_app.CampusCartTests.test_customer_registration_search_and_update) ... ok
+test_customer_with_order_cannot_be_deleted (test_app.CampusCartTests.test_customer_with_order_cannot_be_deleted) ... ok
+test_empty_product_name_rejected (test_app.CampusCartTests.test_empty_product_name_rejected) ... ok
+test_failed_checkout_restore_preserves_csv_records (test_app.CampusCartTests.test_failed_checkout_restore_preserves_csv_records) ... ok
+test_historical_order_items_survive_product_deletion (test_app.CampusCartTests.test_historical_order_items_survive_product_deletion) ... ok
+test_invalid_csv_header_is_not_overwritten (test_app.CampusCartTests.test_invalid_csv_header_is_not_overwritten) ... ok
+test_low_stock_threshold (test_app.CampusCartTests.test_low_stock_threshold) ... ok
+test_more_than_two_decimal_places_rejected (test_app.CampusCartTests.test_more_than_two_decimal_places_rejected) ... ok
+test_negative_or_fractional_stock_rejected (test_app.CampusCartTests.test_negative_or_fractional_stock_rejected) ... ok
+test_negative_price_rejected (test_app.CampusCartTests.test_negative_price_rejected) ... ok
+test_non_numeric_price_and_nan_rejected (test_app.CampusCartTests.test_non_numeric_price_and_nan_rejected) ... ok
+test_order_id_uniqueness_and_history_filter (test_app.CampusCartTests.test_order_id_uniqueness_and_history_filter) ... ok
+test_order_records_exclude_payment_fields (test_app.CampusCartTests.test_order_records_exclude_payment_fields) ... ok
+test_positive_whole_number_parser (test_app.CampusCartTests.test_positive_whole_number_parser) ... ok
+test_product_add_and_list (test_app.CampusCartTests.test_product_add_and_list) ... ok
+test_product_search_by_id_and_name (test_app.CampusCartTests.test_product_search_by_id_and_name) ... ok
+test_reject_insufficient_stock_without_reduction (test_app.CampusCartTests.test_reject_insufficient_stock_without_reduction) ... ok
+test_reject_invalid_cart_quantities (test_app.CampusCartTests.test_reject_invalid_cart_quantities) ... ok
+test_reject_invalid_customer_email (test_app.CampusCartTests.test_reject_invalid_customer_email) ... ok
+test_reject_missing_customer_and_empty_cart (test_app.CampusCartTests.test_reject_missing_customer_and_empty_cart) ... ok
+test_remove_product_and_new_unique_id (test_app.CampusCartTests.test_remove_product_and_new_unique_id) ... ok
+test_report_number_and_order_value (test_app.CampusCartTests.test_report_number_and_order_value) ... ok
+test_update_product (test_app.CampusCartTests.test_update_product) ... ok
+test_zero_price_permitted (test_app.CampusCartTests.test_zero_price_permitted) ... ok
+test_confirmed_order_and_persistence_across_processes (test_cli.CommandLineTests.test_confirmed_order_and_persistence_across_processes) ... ok
+test_invalid_menu_option_is_handled_without_crash (test_cli.CommandLineTests.test_invalid_menu_option_is_handled_without_crash) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 2.619s
+
+OK

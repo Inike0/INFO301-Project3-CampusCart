@@ -1,0 +1,61 @@
+order_id,product_id,product_name,unit_price,quantity,line_total
+O001,P030,Graph Paper Pad,3.10,1,3.10
+O001,P002,A4 Notebook 120 Pages,2.25,3,6.75
+O002,P009,USB Flash Drive 32GB,12.00,2,24.00
+O002,P021,Sticky Notes 100 Pack,2.80,2,5.60
+O002,P029,Mini Desk Lamp,19.00,1,19.00
+O003,P006,Eraser Pack,0.85,3,2.55
+O004,P028,Desk Organizer,9.75,2,19.50
+O004,P008,Scientific Calculator,18.50,3,55.50
+O005,P033,Notebook Case,7.00,2,14.00
+O005,P034,Phone Holder,4.85,3,14.55
+O005,P001,Exercise Book 80 Pages,1.50,3,4.50
+O006,P019,Water Bottle 750ml,8.00,1,8.00
+O007,P027,A4 Printer Paper 100 Sheets,4.50,1,4.50
+O007,P028,Desk Organizer,9.75,2,19.50
+O008,P006,Eraser Pack,0.85,2,1.70
+O008,P018,Earphones,10.50,2,21.00
+O008,P002,A4 Notebook 120 Pages,2.25,1,2.25
+O009,P019,Water Bottle 750ml,8.00,1,8.00
+O010,P034,Phone Holder,4.85,2,9.70
+O010,P025,Staples Box,1.00,2,2.00
+O011,P031,Geometry Set,6.25,3,18.75
+O011,P034,Phone Holder,4.85,3,14.55
+O011,P033,Notebook Case,7.00,2,14.00
+O012,P021,Sticky Notes 100 Pack,2.80,3,8.40
+O013,P028,Desk Organizer,9.75,2,19.50
+O013,P024,Stapler Small,5.00,1,5.00
+O014,P033,Notebook Case,7.00,2,14.00
+O014,P025,Staples Box,1.00,3,3.00
+O014,P002,A4 Notebook 120 Pages,2.25,1,2.25
+O015,P032,Whiteboard Marker,1.60,2,3.20
+O016,P020,Backpack Standard,32.00,3,96.00
+O016,P011,Wireless Mouse,14.75,3,44.25
+O017,P011,Wireless Mouse,14.75,1,14.75
+O017,P001,Exercise Book 80 Pages,1.50,3,4.50
+O017,P009,USB Flash Drive 32GB,12.00,2,24.00
+O018,P028,Desk Organizer,9.75,1,9.75
+O019,P028,Desk Organizer,9.75,2,19.50
+O019,P004,Black Ballpoint Pen,0.75,2,1.50
+O020,P013,Laptop Sleeve 15-inch,13.50,3,40.50
+O020,P022,Highlighter Set,5.50,3,16.50
+O020,P017,Power Bank 10000mAh,28.00,1,28.00
+O021,P014,Laptop Stand,22.00,2,44.00
+O022,P009,USB Flash Drive 32GB,12.00,1,12.00
+O022,P032,Whiteboard Marker,1.60,3,4.80
+O023,P017,Power Bank 10000mAh,28.00,1,28.00
+O023,P020,Backpack Standard,32.00,1,32.00
+O023,P019,Water Bottle 750ml,8.00,3,24.00
+O024,P016,USB-C Charging Cable,6.00,1,6.00
+O025,P015,HDMI Cable 2m,7.25,1,7.25
+O025,P012,USB Keyboard,16.00,1,16.00
+O026,P002,A4 Notebook 120 Pages,2.25,1,2.25
+O026,P031,Geometry Set,6.25,3,18.75
+O026,P028,Desk Organizer,9.75,3,29.25
+O027,P016,USB-C Charging Cable,6.00,1,6.00
+O028,P005,Pencil HB Pack,1.20,3,3.60
+O028,P021,Sticky Notes 100 Pack,2.80,1,2.80
+O029,P025,Staples Box,1.00,3,3.00
+O029,P026,Paper Clips Box,1.30,1,1.30
+O029,P022,Highlighter Set,5.50,3,16.50
+O030,P005,Pencil HB Pack,1.20,2,2.40
